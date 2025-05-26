@@ -88,9 +88,9 @@ const bangla = "bangla";
 const desh = "desh";
 console.log(bangla + desh);
 
-const chall=480
-const char=4
-const din=chall/char
-console.log(din,"din khete parbi");
-const mas=30
-console.log(din/mas ,"mas khete parbi");
+const chall = 480;
+const char = 4;
+const din = chall / char;
+console.log(din, "din khete parbi");
+const mas = 30;
+console.log(din / mas, "mas khete parbi");
